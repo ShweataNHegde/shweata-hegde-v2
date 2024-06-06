@@ -3,7 +3,7 @@ title: Spot The Insect!
 date: 2020-10-11
 author: Shweata N. Hegde
 summary: Mimicry to become better predators
-img: /static/img/portfolio/001_tst_orchid_mantis_1.jpg
+img: /assets/img/portfolio/001_tst_orchid_mantis_1.jpg
 tags:
   - TheSTEMTimes
 ---

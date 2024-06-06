@@ -3,7 +3,7 @@ title: Wolbachia-infected mosquitoes to save humantiy from dengue
 date: 2021-04-14
 author: Shweata N. Hegde
 summary: Can infecting mosquitoes with a specific bacteria save humanity from a debilitating viral disease?
-img: /static/img/portfolio/008_tst_wolbachia_mosquitoes.jpg
+img: /assets/img/portfolio/008_tst_wolbachia_mosquitoes.jpg
 tags:
   - TheSTEMTimes
 ---

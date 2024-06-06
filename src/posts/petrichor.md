@@ -3,7 +3,7 @@ title: Petrichor!
 date: 2020-11-13
 author: Shweata N. Hegde
 summary:  Ever wondered what's responsible for the earthly smell of first rain?!
-img: '/static/img/portfolio/002_tst_petrichor_3.jpg'
+img: '/assets/img/portfolio/002_tst_petrichor_3.jpg'
 tags:
   - TheSTEMTimes
 ---

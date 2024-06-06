@@ -3,7 +3,7 @@ title: Wood Wide Web, not World Wide Web!
 date: 2021-10-15
 author: Shweata N. Hegde
 summary: Buried deep under the soil are laced strands that traverse long distances and form a web
-img: /static/img/portfolio/010_tst_wood_wide_web_1.jpg
+img: /assets/img/portfolio/010_tst_wood_wide_web_1.jpg
 tags:
   - TheSTEMTimes
 ---

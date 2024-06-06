@@ -3,7 +3,7 @@ title: Review of Gene Machine
 date: 2021-02-01
 author: Shweata N. Hegde
 summary: Gene Machine is a must-read for anyone who is up for a thrilling roller coaster journey with the author to decipher the ribosome.
-img: /static/img/portfolio/006_tst_gene_machine_1.jpg
+img: /assets/img/portfolio/006_tst_gene_machine_1.jpg
 tags:
   - TheSTEMTimes
   - book-review

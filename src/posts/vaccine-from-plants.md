@@ -3,7 +3,7 @@ title: Vaccines from plants
 date: 2021-11-11
 author: Shweata N. Hegde
 summary: Vaccines from tobacco leaves!
-img: /static/img/portfolio/011_tst_plant_vaccine_2.jpeg
+img: /assets/img/portfolio/011_tst_plant_vaccine_2.jpeg
 tags:
   - TheSTEMTimes
 ---

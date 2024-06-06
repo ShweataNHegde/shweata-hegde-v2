@@ -3,7 +3,7 @@ title: Review of I Contain Multitudes by Ed Yong
 date: 2021-03-21
 author: Shweata N. Hegde
 summary: Science Journalist Ed Yong writes about how the life that we see is driven by life unseen in ways unfathomable...
-img: /static/img/portfolio/007_tst_i_contain_multitudes_1.jpg
+img: /assets/img/portfolio/007_tst_i_contain_multitudes_1.jpg
 tags:
   - TheSTEMTimes
   - book-review

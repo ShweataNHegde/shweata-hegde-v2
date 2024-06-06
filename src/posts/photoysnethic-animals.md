@@ -3,7 +3,7 @@ title: Photosynthesizing Animal?!
 date: 2021-01-06
 author: Shweata N. Hegde
 summary: We all know that plants, algae and some bacteria have the superpower to photosynthesize. But can animals do the same?
-img: /static/img/portfolio/004_tst_photosynthetic_animal_1.jpg
+img: /assets/img/portfolio/004_tst_photosynthetic_animal_1.jpg
 tags:
   - TheSTEMTimes
 ---

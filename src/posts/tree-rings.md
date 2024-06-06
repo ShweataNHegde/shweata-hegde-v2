@@ -3,7 +3,7 @@ title: Tree Rings -- Life's Morse Code
 date: 2021-05-26
 author: Shweata N. Hegde
 summary: Trees have their own version of Morse code, and they are tree rings!
-img: /static/img/portfolio/009_tst_tree_ring_1.jpg
+img: /assets/img/portfolio/009_tst_tree_ring_1.jpg
 tags:
   - TheSTEMTimes
 ---

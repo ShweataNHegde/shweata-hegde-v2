@@ -126,9 +126,9 @@ collections:
               - { label: "Order", name: "order", widget: "number", default: 0 }
 
       # Blog Page
-      - label: "Blog Page"
-        name: "blog"
-        file: "src/pages/blog.md"
+      - label: "Article Page"
+        name: "article"
+        file: "src/pages/article.md"
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown", required: false }

@@ -3,7 +3,7 @@ title: Diatom Arrangement
 date: 2021-01-24
 author: Shweata N. Hegde
 summary: Turning  slides into canvas, perfect amalgamation of Science and Art!
-img: /static/img/portfolio/005_tst_diatom_arrangement_1.jpg
+img: /assets/img/portfolio/005_tst_diatom_arrangement_1.jpg
 tags:
   - TheSTEMTimes
 ---

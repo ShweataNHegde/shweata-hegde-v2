@@ -3,7 +3,7 @@ title: SciComm Lite 1.0. Report
 date: 2021-06-11
 author: Shweata N. Hegde
 summary: 
-img: /static/img/portfolio/scicomm-lite-report.jpg
+img: /assets/img/portfolio/scicomm-lite-report.jpg
 tags:
   - scirio
 ---

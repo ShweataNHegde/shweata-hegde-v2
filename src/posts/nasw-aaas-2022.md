@@ -3,7 +3,7 @@ title: Humans partner with machines to help save endangered animals
 date: 2022-03-02
 author: Shweata N. Hegde
 summary: 
-img: /static/img/portfolio/nasw_aaas_2022.png
+img: /assets/img/portfolio/nasw_aaas_2022.png
 tags:
   - NASW
 ---

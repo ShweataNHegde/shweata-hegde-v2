@@ -3,7 +3,7 @@ title: Relationship triad -- Antimicrobial lessons from ants, fungi & bacteria ð
 date: 2022-03-20
 author: Shweata N. Hegde
 summary: Who knew that a tri-party relationship between ants, fungi and bacteria could teach us about antimicrobial resistance? Letâ€™s learn!
-img: /static/img/portfolio/012_tst_leafcutter_ants.jpg
+img: /assets/img/portfolio/012_tst_leafcutter_ants.jpg
 tags:
   - TheSTEMTimes
 ---

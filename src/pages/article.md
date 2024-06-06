@@ -5,10 +5,11 @@ date: 2017-01-01
 pagination:
   data: collections.post
   size: 6
-permalink: "blog{% if pagination.pageNumber > 0 %}/page/{{ pagination.pageNumber }}{% endif %}/index.html"
+  reverse: true
+permalink: "article{% if pagination.pageNumber > 0 %}/page/{{ pagination.pageNumber }}{% endif %}/index.html"
 metaDescription: A sample Blog page listing various posts.
 subtitle: A collection of technical blog posts and random thoughts
 eleventyNavigation:
-  key: Blog
+  key: Article
   order: 2
 ---
