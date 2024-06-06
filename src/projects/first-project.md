@@ -1,19 +1,24 @@
 ---
-title: Cat Translation API
-emoji: 😺
-metaDescription: This is a sample meta description. If one is not present in your page/project's front matter, the default metadata.desciption will be used instead.
-date: 2019-01-01T00:00:00.000Z
-summary: API to translate cat speech to english
+title: IndiaAsksWhy
+emoji: ❓
+metaDescription: IndiaAsksWhy, The Science Podcast.
+date: 2024-06-06
+summary: A science podcast for high schoolers
 tags:
-  - golang
-  - graphQL
-  - aws
+  - scicomm
+  - podcast
 ---
+## The Story
+Why are Plants Green? Why Do Birds Fly in Groups? How Do Flowers Bloom? 
 
-### Task
+I'm sure we all have asked such curious questions about the world we observe, more so when we are younger. 
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Back in 2021, as a first year undergrad, I was struck by how my high school education did not recognise or nurture my curiosity. It was all exams, exams and exams (not to blame the teachers).
 
-### Solution
+ Along with Ruchi Manglunia who also shared the same frustration, I started a passion project, IndiaAskWhy (www.indiaaskswhy.org) podcast to explore such curious science-y questions. Our goal was make episodes exploring curious questions and find a way to reach it to students.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+Luckily, IndiaBioscience found potential in our project and hosted our season 01. And for the next two years starting in late 2021, we managed to get a grant called IndiaBioscience Outreach Grant. Having the grant was huge, it enabled us to invest more of our time, have a professional team, visit schools. and more!
+
+In case, you are interesting in learning more about IndiaAsksWhy's journey, check out Choose To Be Curious episode Ruchi and I were featured in. (Spotify | Apple Podcasts). 
+
+## Gallery
