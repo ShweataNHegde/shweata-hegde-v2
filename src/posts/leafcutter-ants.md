@@ -9,7 +9,7 @@ tags:
 ---
 Who knew that a tri-party relationship between ants, fungi and bacteria could teach us about antimicrobial resistance? Let’s learn!
 
-<img src = '/static/img/portfolio/012_tst_leafcutter_ants.jpg'>
+<img src = '/assets/img/portfolio/012_tst_leafcutter_ants.jpg'>
 
 Leafcutter ants can strip almost 17% of the leaf biomass from plants, but they don’t eat the leaves that they cut. Instead, they clean and convert leaves into manure, using it as fertilizer to grow their crop: fungus! The fungus (L. _gongylophorus_) then consumes the leaf and forms fruiting bodies on which the ants feast.
 

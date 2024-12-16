@@ -13,7 +13,7 @@ Their outer shells known as “frustules” sets them apart. The frustules, made
 
 Then came the microscopists of the Victorian era, who turned their slides into canvas, and arranged these beautiful little ones into miniature mandalas, perfectly blending art and science. The earliest of the diatom arrangements date back to the 1800s, reaching its peak in the latter part of the 19th century. Though the art was sought by many naturalists, it slowly died off along with its microscopists.
 
-<img src = '/static/img/portfolio/005_tst_diatom_arrangement_2.jpg'>
+<img src = '/assets/img/portfolio/005_tst_diatom_arrangement_2.jpg'>
 
 Klaus Kemp, a self-taught diatom artist, has now brought back life to this beautiful art form. He was 16 when he first saw the diatom arrangement of the Victorian era. The art begins with collecting, prepping and cleaning the diatoms. The artist then meticulously, for hours or days, arranges individual cells with a hair or needle into beautiful designs.
 

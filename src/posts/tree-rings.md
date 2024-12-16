@@ -11,7 +11,7 @@ Tree Rings: Life’s Morse code encrypting the secrets of the world’s (past) c
 
 You might be familiar with the famous Morse code, a set of codes containing long and short signals for each character, used in wars to encrypt top-secret messages. Trees, it turns out, have their own version of Morse code, and they are tree rings!
 
-<img src = '/static/img/portfolio/009_tst_tree_ring_1.jpg'>
+<img src = '/assets/img/portfolio/009_tst_tree_ring_1.jpg'>
 
 Counting tree rings will tell you its age. But there is a lot more to it! The rings can tell us the climate story of the past long before measurements were recorded!
 

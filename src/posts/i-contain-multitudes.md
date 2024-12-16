@@ -11,7 +11,7 @@ tags:
 
 Who are you? Are you 'just' you? In the answer to the question lies the fundamental yet overlooked aspect of all life, “symbiosis” - our beautiful, messy, complicated relationship with microbes.
 
-<img src = '/static/img/portfolio/007_tst_i_contain_multitudes_2.jpg'>
+<img src = '/assets/img/portfolio/007_tst_i_contain_multitudes_2.jpg'>
 
 Science Journalist Ed Yong writes about how the life that we see is driven by life unseen in ways unfathomable. From high tech labs to oceans & isolated islands, Yong takes us on a grand tour introducing researchers globally who play a unified chord towards understanding symbiosis. With an equal number of bacteria and human cells in our body - ‘we are half the people we think we are’. The microbiome plays a huge role in sculpting organs, digestion, defence, behavior, and so much more!
 

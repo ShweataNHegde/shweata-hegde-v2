@@ -7,7 +7,7 @@ img: /assets/img/portfolio/001_tst_orchid_mantis_1.jpg
 tags:
   - TheSTEMTimes
 ---
-<img src = '/static/img/portfolio/001_tst_orchid_mantis_1.jpg'>
+<img src = '/assets/img/portfolio/001_tst_orchid_mantis_1.jpg'>
 
 At first glance you might see only a bunch of flowers. But on closer inspection, you can spot a gorgeous white insect disguised as a flower. With its pinkish-white body and petal-like legs, female Orchid Mantises resemble a beautiful blossom. _Hymenopus coronatus_ are mainly found in the forests of Southeast Asia. 
 

@@ -11,7 +11,7 @@ Can infecting mosquitoes with a specific bacteria save humanity from a debilitat
 
 Dengue, a hugely neglected disease that plagues 400 millions people each year, is spread through the bite of the female _Aedes aegypti_ mosquito. The mosquito becomes a carrier when she takes the blood of a person infected with the virus. 
 
-<img src = '/static/img/portfolio/008_tst_wolbachia_mosquitoes.jpg'>
+<img src = '/assets/img/portfolio/008_tst_wolbachia_mosquitoes.jpg'>
 
 With no antiviral therapies or vaccines, the only way of controlling the disease is by killing the mosquitoes and preventing breeding. What else can we do to reduce transmission?
 

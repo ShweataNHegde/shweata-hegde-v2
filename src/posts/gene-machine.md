@@ -10,7 +10,7 @@ tags:
 ---
 Ever wonder what it's like to be a lab scientist? Nobel Laureate Venki Ramakrishnan, in his memoir, takes us through his journey – the race to decipher the structure of a fundamental molecule of life, the “ribosome”. Literally, every molecule of the cell is either made by ribosomes or by enzymes which are themselves made by ribosomes.
 
-<img src = '/static/img/portfolio/006_tst_gene_machine_2.jpg'>
+<img src = '/assets/img/portfolio/006_tst_gene_machine_2.jpg'>
 
 From a false start in physics to stumbling into the ‘unfashionable' ribosome; from not knowing how to hold a pipette at his second stint in grad school to sharing the Nobel prize with his rivals (Yonath and Steitz), from being rejected for 50 faculty positions to becoming the President of the Royal Society – the author shares an honest, insecure, personal, and humbling account of being in academia.
 

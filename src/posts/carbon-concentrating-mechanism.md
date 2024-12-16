@@ -15,7 +15,7 @@ This has to do with the key enzyme that goes by the mouthful name, Ribulose-1,5-
 
 The oxygenated product is toxic and the plant needs to invest energy to recycle it. To compensate for the loss of photosynthetic efficiency, most plants produce RuBisCO in large quantities, making it one of the most abundant enzymes in the biosphere. The inefficiency of RuBisCO is one of the limiting factors of photosynthesis.
 
-<img src = '/static/img/portfolio/003_tst_ccm_2.jpg'>
+<img src = '/assets/img/portfolio/003_tst_ccm_2.jpg'>
 
 Interestingly, some bacteria, algae and hornworts have developed a Carbon-Concentrating Mechanism (CCM) to get around this problem. Unlike plants, _Chlamydomonas_ and other photosynthetic green algae concentrate RuBisCO into a compartment called pyrenoid inside the chloroplasts. They employ carbon transporters and carbon leakage preventers to enhance the CO2 concentration, up to 50 folds, in the pyrenoid. This way RuBisCO fixes only CO2, and by proxy, the photosynthetic efficiency goes up.
 

@@ -9,7 +9,7 @@ tags:
 ---
 Buried deep under the soil are laced strands that traverse long distances and form a web. This web connects all the devices (read trees!) & is used for communication. Of course, we are talking about WWW — not the World Wide Web but the **Wood** Wide Web!
 
-<img src = '/static/img/portfolio/010_tst_wood_wide_web_1.jpg'>
+<img src = '/assets/img/portfolio/010_tst_wood_wide_web_1.jpg'>
 
 Researchers have long known that certain fungi form associations with the roots of the trees. They help in fixing nitrogen, and in return, the trees give them food. That is all the exchange that happens or so we thought until Dr. Suzzane Simard, a passionate forest researcher, came along.
 
